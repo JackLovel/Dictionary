@@ -1,2 +1,0 @@
-# Dictionary
-base on qt

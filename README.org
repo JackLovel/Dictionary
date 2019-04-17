@@ -1,0 +1,5 @@
+# Dictionary
+base on qt
+
+# source 
+source copy from [[https://github.com/rekols/qt-demo-projects/tree/master/dict-examples][dict-examples]]
